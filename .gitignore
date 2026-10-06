@@ -1,0 +1,12 @@
+serial
+parallel
+mpi_blocking
+mpi_nonblocking
+mpi_blocking_row
+mpi_non-blocking_row
+mpi_blocking_blockcyclic
+mpi_non-blocking_blockcyclic
+*.o
+*.csv
+.DS_Store
+.ipynb_checkpoints/
